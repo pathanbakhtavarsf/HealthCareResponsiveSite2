@@ -10,7 +10,7 @@ export default function Footer() {
               <div className="bg-gradient-to-r from-cyan-500 to-blue-600 p-2 rounded-lg">
                 <Building2 className="h-6 w-6 text-white" />
               </div>
-              <span className="text-xl font-bold text-white">HealthCare+</span>
+              <span className="text-xl font-bold text-white">HealthCare+ Support</span>
             </div>
             <p className="text-gray-400 mb-4">
               Providing exceptional healthcare services with compassion and expertise. Your health is our priority.
