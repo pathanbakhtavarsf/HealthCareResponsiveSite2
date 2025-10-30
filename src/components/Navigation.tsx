@@ -33,7 +33,7 @@ export default function Navigation({ onNavigate, currentPage }: NavigationProps)
               <Building2 className="h-8 w-8 text-white" />
             </div>
             <div className="flex flex-col">
-              <span className="text-xl font-bold text-gray-900">HealthCare+</span>
+              <span className="text-xl font-bold text-gray-900">HealthCare+ Support</span>
               <span className="text-xs text-gray-600">Your Health Partner</span>
             </div>
           </div>
